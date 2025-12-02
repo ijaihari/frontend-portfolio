@@ -15,7 +15,7 @@ function Contact() {
                             sjaiharinataraj@gmail.com</p>
                         </a>
                         <p>Phone: 9843273540</p>
-                        <div className='contact-btn'>
+                       {/*  <div className='contact-btn'>
                             <a
                                 href="https://twitter.com/messages/compose?recipient_id=1477817555188211712"
                                 target="_blank"
@@ -23,7 +23,7 @@ function Contact() {
                             >
                                 <button className="x-send">Message Me on <FaXTwitter /></button>
                             </a>
-                        </div>
+                        </div> */}
 
 
                     </section>
@@ -32,7 +32,7 @@ function Contact() {
                         <section className="social-links">
                             <a href="https://www.linkedin.com/in/ijaihari/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
                             <a href="https://github.com/ijaihari" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-                            <a href="https://x.com/ijaihari" target="_blank" rel="noopener noreferrer"><FaXTwitter /></a>
+                          {/*   <a href="https://x.com/ijaihari" target="_blank" rel="noopener noreferrer"><FaXTwitter /></a> */}
                         </section>
                     </section>
 
